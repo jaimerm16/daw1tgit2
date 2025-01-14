@@ -1,0 +1,71 @@
+    1  cd ..
+    2  cd d
+    3  cd /d
+    4  cd..
+    5  cd ..
+    6  clear
+    7  cd ..
+    8  cd d
+    9  ls
+   10  dir
+   11  clear
+   12  cd t
+   13  ls
+   14  clear
+   15  cd Programa
+   16  cd Programación/
+   17  ls
+   18  cd Workspace/
+   19  ls
+   20  cd Tema2Parte3
+   21  ls
+   22  clear
+   23  cd ..
+   24  cd ..
+   25  cd ..
+   26  cd Entornos/
+   27  ls
+   28  clear
+   29  mkdir daw1tgit2
+   30  cd da
+   31  cd daw1tgit2
+   32  clear
+   33  ls
+   34  mkdir daw1tgit2
+   35  rmdir daw1tgit2
+   36  mkdir daw1tgit2
+   37  ls
+   38  clear
+   39  ls
+   40  clear
+   41  ls
+   42  cd daw1tgit2
+   43  cd daw1git2/
+   44  cd clear
+   45  claer
+   46  clear
+   47  mkdir daw1tgit2
+   48  cd daw1tgit2
+   49  cd daw1tgit2/
+   50  clear
+   51  git init
+   52  clear
+   53  git status
+   54  clear
+   55  git config list
+   56  git config --list
+   57  git config user.name="Gamer0-0-0-0"
+   58  git config user.email="jaime@gmail.com"
+   59  git config user.name="Jaime0-0-0-0"
+   60  clear
+   61  git config --list
+   62  git config --global user.name=Jaimerm
+   63  git config --global user.name="Jaimerm"
+   64  clear
+   65  git config user.name "Jaimerm"
+   66  clear
+   67  git config --list
+   68  git status
+   69  clear
+   70  history
+   71  history > history.txt
